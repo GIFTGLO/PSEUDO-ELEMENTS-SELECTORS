@@ -1,0 +1,17 @@
+input[type="text"]{
+    border:10px solid powderblue;
+}
+input[type="email"]{
+    border:10px solid orchid;
+}
+li:nth-child(3){
+    font-size:40px;
+    color:darkturquoise;
+}
+.styling::after{
+    content:"selectors😆";
+    color:forestgreen
+}
+a:hover{
+    color:lightcoral;
+}
